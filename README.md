@@ -135,7 +135,7 @@ Ter um ambiente de desenvolvimento bem configurado facilita a produtividade. Iss
 
 O Docker é um software de código aberto usado para implantar aplicativos dentro de containers virtuais. A conteinerização permite que vários aplicativos funcionem em diferentes ambientes complexos. Confira [aqui](https://www.redhat.com/pt-br/topics/containers/what-is-docker) uma documentação mais detalhada sobre Docker.
 
-*Sugestão: Você precisa ir se familiarizando com essas ferramentas, então conforme for evoluindo em seus estudo vá incluindo essas ferramentas no seu dia-a-dia. Para um primeiro momento você pode focar apenas em criar um ambiente local para desenvolvimento, ou até mesmo iniciar com ambientes completamente onlines.*
+*Sugestão: Você precisa ir se familiarizando com essas ferramentas, então conforme for evoluindo em seus estudos vá incluindo essas ferramentas no seu dia-a-dia. Para um primeiro momento você pode focar apenas em criar um ambiente local para desenvolvimento, ou até mesmo iniciar com algum ambiente completamente online.*
 
 ## 10. Soft Skills
 
