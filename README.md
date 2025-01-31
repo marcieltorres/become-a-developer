@@ -26,9 +26,9 @@ O desenvolvimento de software vai além da escrita de código. Como pessoas dese
 
 ## 2. Linguagens de Programação
 
-Tentando utilizar uma abordagem mais amigável e não tão tecnica, uma linguagem de programação é como um idioma que usamos para "conversar" com os computadores e dizer o que queremos que eles façam. Assim como usamos palavras e frases para nos comunicar com outras pessoas, usamos códigos e instruções específicas para explicar ao computador como realizar uma tarefa, como calcular algo, mostrar uma imagem ou enviar uma mensagem.
+Tentando utilizar uma abordagem mais amigável e não tão técnica, uma linguagem de programação é como um idioma que usamos para "conversar" com os computadores e dizer o que queremos que eles façam. Assim como usamos palavras e frases para nos comunicar com outras pessoas, usamos códigos e instruções específicas para explicar ao computador como realizar uma tarefa, como calcular algo, mostrar uma imagem ou enviar uma mensagem.
 
-Por exemplo, se você quiser ensinar alguém a fazer um bolo, você dará instruções como "misture os ingredientes", "asse no forno por 30 minutos", etc. Na programação, fazemos algo parecido, mas as instruções são escritas em um formato que o computador consegue entender. 
+Por exemplo, se você quiser ensinar alguém a fazer um bolo, você dará instruções como "misture os ingredientes", "asse no forno por 30 minutos", etc. Na programação, fazemos algo parecido, mas as instruções são escritas em um formato que o computador consegue entender. Esse conjunto de instruções é chamado de `algoritmo`. Esse termo é bastante comum na área e se refere justamente a uma sequência de passos que um computador deve seguir para realizar uma tarefa.
 
 Existem diversas linguagens de programação, seguindo a [pesquisa do Stack Overflow](https://survey.stackoverflow.co/2024/technology), em 2024 essas foram algumas das linguagens mais utilizadas no mercado: Javascript, Python, Java, C#, PHP e Golang.
 
@@ -46,6 +46,7 @@ Na programação, esses "estilos" influenciam a maneira como os códigos são es
 
 **Paradigma Funcional**: Foca em funções matemáticas puras, evitando modificar valores depois de definidos, como se fosse uma fábrica que sempre produz o mesmo produto quando recebe os mesmos ingredientes. Alguns ex: Haskell, Lisp, Elixir, Clojure, Scala.
 
+Perceba que algumas linguagens implementam mais de um paradigma, o que é de certa forma comum, o ideal nesse caso é encontrar a melhor linguagem e paradigma para resolver o problema que você tem.
 
 *Sugestão: Foque nos dois primeiros paradigmas e depois evolua para o paradigma funcional se tiver interesse. Java ou C# são duas boas opções para utilizar recursos da Orientação a Objetos.*
 
@@ -113,7 +114,7 @@ Deploy é o processo de disponibilizar um software para uso. Pode ser feito manu
 Após o deploy devemos garantir que nosso sofware esteja funcionando corretamente, para isso utilizamos algumas práticas como: monotoramento, métricas e logs para entender no detalhe o que de fato esta ocorrendo com o sistema. Geralmente para a coleta dessas métricas um APM (*Application Performance Monitoring*) pode ser utilizado, vai depender muito da realidade desse software.
 
 - **DevOps**: DevOps é uma cultura que une desenvolvimento e operações para otimizar processos de entrega de software. Ferramentas como Docker, Kubernetes e Terraform são frequentemente usadas para garantir escalabilidade e eficiência.
-- **CI/CD**: (Continuous Integration/Continuous Deployment) é uma prática que permite automação de testes e deploys, garantindo que novas versões do software sejam lançadas rapidamente e com qualidade.
+- **CI/CD**: *Continuous Integration/Continuous Deployment* é uma prática que permite automação de testes e deploys, garantindo que novas versões do software sejam lançadas rapidamente e com qualidade.
 - **APM**: *Application Performance Monitoring* é o processo de usar ferramentas de software e dados de telemetria para monitorar a performance de aplicações críticas para os negócios.
 - **Logs**: São registros no formato de texto que sua aplicação pode gerar, são muito importante para rastrear possíveis problemas e identificar erros.
 
@@ -127,11 +128,15 @@ Dominar as principais ferramentas do dia a dia é essencial para um desenvolvedo
 
 Ter um ambiente de desenvolvimento bem configurado facilita a produtividade. Isso inclui instalar um bom editor de código (VS Code, IntelliJ, ou algum outro de sua preferência), configurar um terminal eficiente e utilizar gerenciadores de pacotes. Lembrando que cada ambiente terá seus recursos próprios (Windows, Linux, MacOS), então busque as melhores configurações que fiquem mais confortáveis para você.
 
-### 9.2 Git
+### 9.2 Editor
+
+É importante você se familiarizar com pelo menos um editor, com isso você consegue conhecer os atalhos e ganhar grande velocidade durante o seu processo de desenvolvimento, o que vai te auxiliar bastante.
+
+### 9.3 Git
 
 [Git](https://git-scm.com/) é um sistema de controle de versão que permite gerenciar código-fonte de forma eficiente. O GitHub, GitLab e Bitbucket são plataformas populares para hospedar repositórios e colaborar com outras pessoas.
 
-### 9.3 Docker
+### 9.4 Docker
 
 O Docker é um software de código aberto usado para implantar aplicativos dentro de containers virtuais. A conteinerização permite que vários aplicativos funcionem em diferentes ambientes complexos. Confira [aqui](https://www.redhat.com/pt-br/topics/containers/what-is-docker) uma documentação mais detalhada sobre Docker.
 
