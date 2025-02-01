@@ -177,3 +177,9 @@ Uma série de sugestões de livros, podcasts e canais para ajudar na continuidad
 - [2MinutesPy](https://www.youtube.com/@2MinutesPy)
 - [Akitando](https://www.youtube.com/@Akitando)
 - [HealthyDev](https://www.youtube.com/@HealthyDev)
+
+## Links
+
+- [Big-O Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
+- [How I Mastered Data Structures and Algorithms](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
+- [Awesome LeetCode Resources](https://github.com/ashishps1/awesome-leetcode-resources)
