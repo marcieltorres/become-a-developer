@@ -1,0 +1,8 @@
+
+## Quais alterações estão sendo propostas? 
+
+*Descreva com clareza todas as alterações que estão sendo propostas e como elas irão colaborar na jornada de uma pessoa desenvolvedora.*
+
+**Fechando issues**
+
+Caso esse pr resolva alguma issue aberta, coloque `closes #issue_id` aqui na descrição para que a issue seja fechada automaticamente quando o pr for incorporado a branch principal.
