@@ -6,7 +6,7 @@ Este roadmap foi criado para ajudar pessoas que desejam entrar na área de desen
 
 - Pessoas que pretendem entrar na área de desenvolvimento.
 - Profissionais em transição de carreira.
-- Pessoas desenvolvedoras iniciantes que querem consolidar e aprofundar seus conhecimentos.
+- Pessoas desenvolvedoras iniciantes que desejam consolidar e aprofundar seus conhecimentos.
 
 ## Carreiras
 
