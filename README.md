@@ -6,7 +6,7 @@ Este roadmap foi criado para ajudar pessoas que desejam entrar na área de desen
 
 - Pessoas que pretendem entrar na área de desenvolvimento.
 - Profissionais em transição de carreira.
-- Desenvolvedores iniciantes que querem consolidar seus conhecimentos.
+- Pessoas desenvolvedoras iniciantes que querem consolidar e aprofundar seus conhecimentos.
 
 ## Carreiras
 
@@ -19,6 +19,14 @@ Existem diversas trilhas dentro da área do desenvolvimento, as mais comuns para
 - **Mobile Developer**: Foco no desenvolvimento de aplicativos para dispositivos móveis (celulares e tablets).
 
 *Confira [aqui](https://exame.com/hub-faculdade-exame/carreira-em-tecnologia/) uma matéria da Exame sobre carreiras em tecnologia.*
+
+## A Importância do Inglês
+
+O inglês é uma habilidade essencial não somente para pessoas desenvolvedoras. A ampla maioria do conteúdo técnico utiliza o inglês como idioma principal como por exemplo: tutoriais, artigos, vídeos, blogs, comunidades técnicas, etc. As linguagens de programação e ferramentas adotam palavras-chave e sintaxes baseadas no inglês.
+
+Além disso, o inglês é fundamental para colaborar com equipes internacionais e participar de conferências, eventos e projetos open source. Empresas globais valorizam profissionais com boa comunicação em inglês, ampliando significativamente as oportunidades de trabalho no mercado de tecnologia.
+
+*Sugestão: Separe um tempo na sua agenda para estudar e se aprofundar no idioma. Não é um pré requisito, porém irá te ajuda MUITO no futuro.*
 
 ## 1. Resolução de Problemas
 
@@ -122,7 +130,7 @@ Após o deploy devemos garantir que nosso sofware esteja funcionando corretament
 
 ## 9. Ferramentas
 
-Dominar as principais ferramentas do dia a dia é essencial para um desenvolvedor. Isso inclui ambientes de desenvolvimento, controle de versão e infraestrutura.
+Dominar as principais ferramentas do dia a dia é essencial para uma pessoa desenvolvedora. Isso inclui ambientes de desenvolvimento, controle de versão e infraestrutura.
 
 ### 9.1 Máquina Local / Configure seu ambiente
 
