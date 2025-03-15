@@ -1,6 +1,6 @@
 # Become a Developer
 
-Este roadmap foi criado para ajudar pessoas que desejam entrar na área de desenvolvimento de software. Aqui você encontrará os fundamentos essenciais para iniciar sua jornada como pessoa desenvolvedora. O objetivo é fornecer uma base sólida para que você possa continuar evoluindo nos seus estudos. Lembrando que Desenvolvimento de Software é uma área densa, os tópicos que aqui estão foram resumidos e adaptados para um melhor entendimento visando facilitar o estudo de conceitos fundamentais que envolvem essa disciplina. 
+Este conteúdo foi criado para ajudar pessoas que desejam entrar na área de desenvolvimento de software. Aqui você encontrará os fundamentos essenciais para iniciar sua jornada como pessoa desenvolvedora. O objetivo é fornecer uma base sólida para que você possa continuar evoluindo nos seus estudos. Lembrando que Desenvolvimento de Software é uma área densa, os tópicos que aqui estão foram resumidos e adaptados para um melhor entendimento visando facilitar o estudo de conceitos fundamentais que envolvem essa disciplina. 
 
 ## Público alvo
 
@@ -63,6 +63,37 @@ Perceba que algumas linguagens implementam mais de um paradigma, o que é de cer
 Frameworks são conjuntos de ferramentas e bibliotecas que facilitam o desenvolvimento. Eles fornecem uma estrutura básica para acelerar a implementação e garantir boas práticas.
 
 *Sugestão: Primeiro tente dominar (ou esteja bem familiarizado) alguma linguagem de programação. Após, escolha algum framework amplamente utilizado na linguagem que você está estudando, para isso você pode utilizar a pesquisa do StackOverflow que já foi mencionada nesse documento*.
+
+### 2.3 Padrões de Código e Boas Práticas
+
+Lembre-se que você está escrevendo código para pessoas e não para máquinas, então adatoar padrões de código e boas práticas torna o desenvolvimento de software mais claro e eficiente. Princípios como simplicidade e reutilização ajudam a evitar erros e facilitar a colaboração entre pessoas desenvolvedoras. Um código bem estruturado reduz o tempo de manutenção e melhora a escalabilidade do sistema.
+
+#### Princípios Fundamentais
+
+- **SOLID**: são cinco princípios da orientação a objetos que auxiliam separando responsabilidades, diminuindo acoplamentos, facilitando na refatoração e estimulando o reaproveitamento do código.
+    - Single Responsibility Principle (SRP): Cada classe/módulo deve ter apenas uma responsabilidade;
+    - Open/Closed Principle (OCP): Código deve ser aberto para extensão, mas fechado para modificação;
+    - Liskov Substitution Principle (LSP): Subclasses devem ser substituíveis sem quebrar o sistema;
+    - Interface Segregation Principle (ISP): Interfaces devem ser enxutas e específicas;
+     Dependency Inversion Principle (DIP): Módulos de alto nível não devem depender diretamente de módulos de baixo nível;
+- **DRY (Don't Repeat Yourself)**: Evite duplicação de código. Sempre que possível, reutilize funções, classes e módulos.
+- **KISS (Keep It Simple, Stupid)**: Código simples é melhor do que código complexo. Se algo pode ser feito de forma mais clara e direta, faça assim.
+- **YAGNI (You Ain't Gonna Need It)**: Não implemente funcionalidades que você acha que pode precisar no futuro. Desenvolva apenas o necessário.
+- **Principio da Responsabilidade Única**: Cada função/método/classe deve ter uma única responsabilidade clara.
+
+#### Design Patterns (Padrões de Projeto)
+
+Os Design Patterns são soluções reutilizáveis para problemas comuns no desenvolvimento de software com linguagens orientadas a objeto. Eles são divididos em três categorias principais:
+
+- **Padrões Criacionais**: Estes padrões fornecem vários mecanismos de criação de objetos, que aumentam a flexibilidade e reutilização de código já existente.
+- **Padrões estruturais**: Estes padrões explicam como montar objetos e classes em estruturas maiores mas ainda mantendo essas estruturas flexíveis e eficientes.
+- **Padrões comportamentais**: Estes padrões são voltados aos algoritmos e a designação de responsabilidades entre objetos.
+
+> Se quiser mais detalhes sobre esses padrões, acesse [Refactoring.Guru](https://refactoring.guru/).
+
+> [Zen Of Python](https://peps.python.org/pep-0020/): Detalha alguns princípios sobre o desenvolvimento de software com Python mas que servem para programação em geral.
+ 
+*Sugestão: Comece aprendendo SOLID, DRY e KISS, pois esses princípios te ajudarão a escrever um código mais limpo antes mesmo de se preocupar com padrões complexos. Em seguida, estude Singleton, Factory e Observer, que são os mais usados no dia a dia do desenvolvimento.*
 
 ## 3. Estruturas de Dados e Algoritmos
 
@@ -191,3 +222,6 @@ Uma série de sugestões de livros, podcasts e canais para ajudar na continuidad
 - [Big-O Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
 - [How I Mastered Data Structures and Algorithms](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 - [Awesome LeetCode Resources](https://github.com/ashishps1/awesome-leetcode-resources)
+- [Refactoring.Guru](https://refactoring.guru/)
+- [SOLID: Um guia completo](https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530)
+- [Zen Of Python](https://peps.python.org/pep-0020/)
