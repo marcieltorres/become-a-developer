@@ -20,6 +20,8 @@ Existem diversas trilhas dentro da área do desenvolvimento, as mais comuns para
 
 *Confira [aqui](https://exame.com/hub-faculdade-exame/carreira-em-tecnologia/) uma matéria da Exame sobre carreiras em tecnologia.*
 
+> [Aqui](https://www.careertopologies.com/) você consegue visualizar com mais detalhes a topologia de uma cerreira em tecnologia.
+
 ## A Importância do Inglês
 
 O inglês é uma habilidade essencial não somente para pessoas desenvolvedoras. A ampla maioria do conteúdo técnico utiliza o inglês como idioma principal como por exemplo: tutoriais, artigos, vídeos, blogs, comunidades técnicas, etc. As linguagens de programação e ferramentas adotam palavras-chave e sintaxes baseadas no inglês.
@@ -225,3 +227,4 @@ Uma série de sugestões de livros, podcasts e canais para ajudar na continuidad
 - [Refactoring.Guru](https://refactoring.guru/)
 - [SOLID: Um guia completo](https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530)
 - [Zen Of Python](https://peps.python.org/pep-0020/)
+- [Career Topologies](https://www.careertopologies.com/)
